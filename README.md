@@ -11,7 +11,7 @@
   ### 👩‍💻 Contact
   
   ![Mail](https://img.shields.io/badge/nh2545@naver.com-03C75A?style=flat&logo=naver&logoColor=white)
-  ![Velog](https://img.shields.io/badge/rani.log-20C997?style=flat&logo=Velog&logoColor=white)
+  [![Velog](https://img.shields.io/badge/rani.log-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@nh2545)
 
   ### 🖥⌨ Tech Stack
 

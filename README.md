@@ -43,10 +43,11 @@
   </details>
 
   <br />
-
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahaeran&show_icons=true&theme=shadow_blue)
   ![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nh2545)
-  
+
   <hr>
   
 </div>

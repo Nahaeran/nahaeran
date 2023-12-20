@@ -41,6 +41,11 @@
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
     
   </details>
+
+  <br />
+
+  ![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nh2545)
   
   <hr>
   
